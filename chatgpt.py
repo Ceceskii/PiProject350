@@ -1,3 +1,5 @@
+# original draft from https://pimylifeup.com/raspberry-pi-chatgpt/
+
 import openai
 
 openai.api_key = 'SECRETKEY'
