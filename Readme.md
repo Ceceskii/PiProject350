@@ -47,7 +47,8 @@ nano chatgpt.py
 ```
 python3 chatgpt.py
 ```
-* After the script is loaded, you will be prompted for you input. After input entered, ChatGPT will read the message sent from Raspberry Pi and then sent us the response. 
+* After the script is loaded, you will be prompted for you input. After input entered, ChatGPT will read the message sent from Raspberry Pi and then sent us the response.
+  
 ![chatgpt](https://github.com/Ceceskii/PiProject350/assets/97866655/c98f40d4-7523-4c28-9385-c5329c0fb289)
 
 ## Citation
